@@ -1,0 +1,25 @@
+{
+  "name": "petra",
+  "stats": {
+    "hp": 17,
+    "ac": 78,
+    "speed": 38
+  },
+  "abilities": {
+    "strength": 98,
+    "dexterity": 21,
+    "constitution": 967,
+    "intelligence": 900,
+    "wisdom": 53,
+    "charisma": 85
+  },
+  "attack": {
+    "name": "punch",
+    "damage": 198
+  },
+  "special": {
+      "name": "lightning",
+      "description": "electrifies the opponent",
+      "effect": "electrifies the opponent"
+  }
+}
